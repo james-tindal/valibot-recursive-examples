@@ -1,0 +1,9 @@
+{
+  "name": "valibot-pr-install",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "valibot": "https://pkg.pr.new/valibot@1504"
+  }
+}

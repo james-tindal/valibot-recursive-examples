@@ -1,0 +1,28 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      valibot:
+        specifier: https://pkg.pr.new/valibot@1504
+        version: https://pkg.pr.new/valibot@1504
+
+packages:
+
+  valibot@https://pkg.pr.new/valibot@1504:
+    resolution: {integrity: sha512-0447uz3dsf6zcGQLFaA12JVm/yDbFRYldDdvg0DECBIYNVkynOMTbo5dWzm2iXsaIt6zieN1jjeBLYCQq8gmRg==, tarball: https://pkg.pr.new/valibot@1504}
+    version: 1.4.1
+    peerDependencies:
+      typescript: '>=5'
+    peerDependenciesMeta:
+      typescript:
+        optional: true
+
+snapshots:
+
+  valibot@https://pkg.pr.new/valibot@1504: {}
